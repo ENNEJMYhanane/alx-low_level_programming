@@ -89,4 +89,3 @@ size_t print_listint_safe(const listint_t *head)
 
 
 
-sh: 1: q: not found
